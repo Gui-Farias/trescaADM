@@ -1033,7 +1033,6 @@ figcaption {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: inline-block;
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
@@ -4986,29 +4985,28 @@ figcaption {
   top: 0%;
   right: 0%;
   bottom: 0%;
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
   background-position: 50% 100%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .c-gridgallery1__image-2.img4 {
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
+  background-image: url('../images/caseSucesso02.jpg');
   background-position: 50% 50%;
 }
 
 .c-gridgallery1__image-2.img3 {
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
+  background-image: url('../images/caseSucesso01.jpg');
   background-position: 50% 100%;
 }
 
 .c-gridgallery1__image-2.img5 {
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
+  background-image: url('../images/caseSucesso04.jpg');
   background-position: 50% 100%;
 }
 
 .c-gridgallery1__image-2.img6 {
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
+  background-image: url('../images/caseSucesso03.jpg');
   background-position: 50% 100%;
 }
 
