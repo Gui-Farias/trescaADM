@@ -10,7 +10,7 @@
                 <h1>Sobre</h1>
                 <div class="padding-left padding-right margin-bottom is-heading-color">Acreditamos no potencial de cada empreendimento, e cuidamos de todas as etapas rumo ao seu sucesso!</div>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png?text=IMAGE" alt="" class="header-image style2">
+        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image style2">
     </div>
     <div class="section no-padding-bottom">
         <div class="container">

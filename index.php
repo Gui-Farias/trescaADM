@@ -199,7 +199,7 @@
                         </div>
                         <div class="w-slide">
                             <div class="container flexh-align-center">
-                                <div class="col no-margin-bottom lg-6 md-12 order-last"><img src="https://via.placeholder.com/1000x600.png?text=IMAGE" width="287" alt=""></div>
+                                <div class="col no-margin-bottom lg-6 md-12 order-last"><img src="https://via.placeholder.com/1000x600.png" width="287" alt=""></div>
                                 <div class="col lg-1"></div>
                                 <div class="col no-margin-bottom lg-5 position-relative md-12">
                                     <div class="text-large weight-is-thin margin-bottom">I would highly recommend them! They always treat my business as if she was one of theirs!</div>

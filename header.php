@@ -24,7 +24,7 @@
             </div>
             <div class="col lg-4 md-basis-auto md-order-first no-margin-bottom-lg">
                 <a href="index.php" class="brand w-inline-block">
-                    <img src="images/logo.png" alt="">
+                    <img src="images/logo.png" alt="Logo TrescaADM">
                 </a>
             </div>
             <div class="col no-margin-bottom lg-4">

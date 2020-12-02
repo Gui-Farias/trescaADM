@@ -9,7 +9,7 @@
                 <div class="pre-title is-dark-with-low-opacity">Nossos Serviços</div>
                 <h1>Contabilidade </h1>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png?text=IMAGE" alt="" class="header-image style2">
+        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image style2">
     </div>
     <div class="section padding-bottom-extra">
         <div class="container flex-horizontal">
@@ -29,7 +29,7 @@
                         <li>Obrigações assessórias como, ECD - escrituração contabil digital, E-lalur, ECF - escrituração contabil fiscal.<br></li>
                     </ul>
                 </div>
-                <a href="#" class="button-primary w-inline-block">
+                <a href="./contato.php" class="button-primary w-inline-block">
                     <div class="button-primary-text">Entrar em contato</div>
                 </a>
             </div>

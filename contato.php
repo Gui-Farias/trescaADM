@@ -9,7 +9,7 @@
                 <h1>Entre em contato</h1>
                 <div class="is-heading-color">Quer saber como alavancar seu negócio? Entre em contato conosco, nós temos a solução ideal.</div>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png?text=IMAGE" alt="" class="header-image style3">
+        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image style3">
     </div>
     <div class="section">
         <div class="container is-narrow">

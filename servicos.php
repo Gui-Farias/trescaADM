@@ -13,7 +13,7 @@
                     
                     ao crescimento e mais que isso, uma parceria pra vida!</div>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png?text=IMAGE" alt="" class="header-image style2">
+        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image style2">
     </div>
     <div class="section no-padding-bottom">
         <div class="container">
@@ -158,7 +158,7 @@
     </div>
     <div class="section no-padding-top xs-no-padding-bottom">
         <div class="container is-wide">
-            <div class="col lg-12 position-relative xs-no-margin-bottom"><img src="https://via.placeholder.com/1000x600.png?text=IMAGE 1400w" sizes="(max-width: 479px) 90vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, 97vw" alt="">
+            <div class="col lg-12 position-relative xs-no-margin-bottom"><img src="https://via.placeholder.com/1000x600.png 1400w" sizes="(max-width: 479px) 90vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, 97vw" alt="">
                 <div class="c-quotebox has-shadow position-relative">
                     <div class="quotemark2">“</div>
                     <div class="text-medium margin-bottom-double">Financia solved my problem with ease. Great customer service highly recommend. On tomorrow of the quality in clothing too!</div>
@@ -183,6 +183,6 @@
                     </div>
                 </div>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png?text=IMAGE" alt="" class="header-image position2">
+        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image position2">
     </div>
 <?php include 'footer.php' ?>

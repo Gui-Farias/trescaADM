@@ -8,7 +8,7 @@
                 <div class="pre-title is-dark-with-low-opacity">Nossos serviços</div>
                 <h1>Legalização e Societário</h1>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png?text=IMAGE" alt="" class="header-image style2">
+        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image style2">
     </div>
     <div class="section padding-bottom-extra">
 
@@ -33,7 +33,7 @@
                         <li>Assessoria para obtenção de licenças de funcionamento, CETESB, ANVISA, e demais orgãos reguladores.</li>
                     </ul>
                 </div>
-                <a href="./quote.html" class="button-primary w-inline-block">
+                <a href="./contato.php" class="button-primary w-inline-block">
                     <div class="button-primary-text">Entrar em contato</div>
                 </a>
             </div>
