@@ -17,4 +17,5 @@
     <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
     <link href="https://via.placeholder.com/1000x600.png" rel="shortcut icon" type="image/x-icon">
     <link href="https://via.placeholder.com/1000x600.png" rel="apple-touch-icon">
+
 </head>

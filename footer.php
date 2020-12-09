@@ -1,14 +1,22 @@
-
     <footer class="section section-footer-dark padding-bottom-16">
         <div class="container margin-bottom">
             <div class="col lg-2 md-12 md-order-first"><img src="images/logo.png" alt=""></div>
             <div class="col lg-6 md-12 no-margin-bottom-lg">
                 <div class="container container-nested">
                     <div class="col lg-4 md-12 no-margin-bottom-lg">
-                        <h4 class="on-dark">Empresa</h4><a href="#" class="footer-nav-link on-dark">Home</a><a href="#" class="footer-nav-link on-dark">Serviços</a><a href="#" class="footer-nav-link on-dark">Sobre</a><a href="#" class="footer-nav-link on-dark">Contato</a>
+                        <h4 class="on-dark">Empresa</h4>
+                            <a href="index.php" class="footer-nav-link on-dark">Home</a>
+                            <a href="servicos.php" class="footer-nav-link on-dark">Serviços</a>
+                            <a href="sobre.php" class="footer-nav-link on-dark">Sobre</a>
+                            <a href="contato.php" class="footer-nav-link on-dark">Contato</a>
                     </div>
                     <div class="col lg-4 md-12 no-margin-bottom-lg">
-                        <h4 class="on-dark">Serviços</h4><a href="#" class="footer-nav-link on-dark">Legalização e Societário</a><a href="#" class="footer-nav-link on-dark">Gestão de Pessoal</a><a href="#" class="footer-nav-link on-dark">Financeiro</a><a href="#" class="footer-nav-link on-dark">Contabil</a><a href="#" class="footer-nav-link on-dark">Tributário</a>
+                        <h4 class="on-dark">Serviços</h4>
+                            <a href="legalizacaoesocietario.php" class="footer-nav-link on-dark">Legalização e Societário</a>
+                            <a href="gestaopessoal.php" class="footer-nav-link on-dark">Gestão de Pessoal</a>
+                            <a href="financeiro.php" class="footer-nav-link on-dark">Financeiro</a>
+                            <a href="contabilidade.php" class="footer-nav-link on-dark">Contabil</a>
+                            <a href="tributario.php" class="footer-nav-link on-dark">Tributário</a>
                     </div>
                     <div class="col lg-4 md-12 no-margin-bottom">
                     </div>
@@ -17,13 +25,13 @@
             <div class="col lg-4 md-12 no-margin-bottom">
 
                 <div class="flexh-space-between">
-                    <a href="https://www.instagram.com/trescaadm/" class="c-social on-dark w-inline-block">
+                    <a href="https://www.instagram.com/trescaadm/" class="c-social on-dark w-inline-block" target="_blank">
                         <div class="fa-brand"></div>
                     </a>
-                    <a href="https://www.facebook.com/trescaadm" class="c-social on-dark w-inline-block">
+                    <a href="https://www.facebook.com/trescaadm" class="c-social on-dark w-inline-block" target="_blank">
                         <div class="fa-brand"></div>
                     </a>
-                    <a href="https://www.linkedin.com/company/trescaadm/" class="c-social on-dark w-inline-block">
+                    <a href="https://www.linkedin.com/company/trescaadm/" class="c-social on-dark w-inline-block" target="_blank">
                         <div class="fa-brand"></div>
                     </a>
                 </div>

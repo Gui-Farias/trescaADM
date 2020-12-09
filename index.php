@@ -12,7 +12,7 @@
                 <div class="color-dark text-medium margin-bottom">Visamos aprimorar a gestão de seu negócio, avaliando e mensurando a
 
                     performance da organização.</div>
-                <a data-w-id="cf285295-027b-25e0-3964-b91a419e5388" href="#" class="button-primary animated w-inline-block">
+                <a data-w-id="cf285295-027b-25e0-3964-b91a419e5388" href="contato.php" class="button-primary animated w-inline-block">
                     <div style="-webkit-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:1" class="button-primary-text">Orçamento Grátis</div>
                     <div style="opacity:0;display:block;-webkit-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="button-primary-text for-hover">Vamos lá <span class="fa margin-left"></span></div>
                 </a>
@@ -25,12 +25,11 @@
             <div class="col lg-4 flexv-space-between md-12">
                 <div>
                     <div class="pre-title">TRESCAADM</div>
-                    <div class="size-h2 margin-bottom">Nossas especialidades.</div>
-                    <div class="text-medium low-text-contrast">Entendemos e cuidamos de sua necessidade.
-
-                        Uma empresa que pensa junto com o cliente, visando
-                        
-                        ao crescimento e mais que isso, uma parceria pra vida!.</div>
+                    <div class="size-h2 margin-bottom">Nossa especialidade.</div>
+                    <div class="text-medium low-text-contrast">É entender, cuidar e solucionar as necessidades, do seu 
+empreendimento assim viabilizar caminhos estruturados rumo
+aos objetivos traçados pelos sócios, investidores e ou equipe de estratégia, somos um time de consultores que pensamos e andamos com o nosso cliente, visando o crescimento e mais que isso, uma parceria  pra vida!
+</div>
                 </div><a href="#" class="cta-link"><span class="margin-right">Contate-nos</span><span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
             </div>
             <div class="col lg-8 no-margin-bottom-lg md-12">
@@ -39,28 +38,31 @@
                         <div class="c-iconbox1__icon"><img src="images/money.svg" alt=""></div>
                         <div class="padding-top">
                             <div class="size-h3 on-lg-margin-bottom">Finanças</div>
-                            <div>Auxiliamos na geração e no aumento do retorno sobre capital de giro e dos sócios, acionistas ou de seus investidores.</div>
+                            <div>Para se obter agilidade, evitar perdas e planejar adequadamente os próximos passos do seu empreendimento é necessário ter um time completo e atualizado que permitira controle do fluxo financeiro, e uma analise detalhada das informações geradas, que irão permitir um crescimento com o mínimo de perda e uma maior lucratividade
+</div>
                         </div>
                     </div>
                     <div class="col lg-6 md-12 md-margin-bottom-small flexh-align-top">
                         <div class="c-iconbox1__icon"><img src="images/iconStrategy.svg" alt=""></div>
                         <div class="padding-top">
                             <div class="size-h3 on-lg-margin-bottom">Ações estratégicas</div>
-                            <div>Desenvolvemos ações estratégicas, visando sempre aprimorar o modelo de gestão de seu negócio. </div>
+                            <div>Ação estratégica aplicada através da analise de informações
+Geradas pelo financeiro e contábil, que permitirão um planejamento adequado, encontrando o ponto de equilíbrio.
+ </div>
                         </div>
                     </div>
                     <div class="col lg-6 md-12 md-margin-bottom-small flexh-align-top">
                         <div class="c-iconbox1__icon"><img src="images/iconIA.svg" alt=""></div>
                         <div class="padding-top">
-                            <div class="size-h3 on-lg-margin-bottom">Accounting Intelligence</div>
-                            <div>Nosso AI é uma ferramenta capaz de transformar a massa de dados de sua empresa em informações relevantes para a governança de seu negócio. </div>
+                            <div class="size-h3 on-lg-margin-bottom">Inteligência Contábil</div>
+                            <div>Nosso IC é uma ferramenta capaz de transformar cada dado gerado pelo seu negócio em informações relevantes para a governança e expansão. </div>
                         </div>
                     </div>
                     <div class="col lg-6 md-12 md-margin-bottom-small flexh-align-top">
                         <div class="c-iconbox1__icon"><img src="images/crowfunding.svg" alt=""></div>
                         <div class="padding-top">
-                            <div class="size-h3 on-lg-margin-bottom">A Fiduciary Partner</div>
-                            <div>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor </div>
+                            <div class="size-h3 on-lg-margin-bottom">Parceiro tributário</div>
+                            <div>Aliamos a tecnologia e o aprimoramento profissional constante, para que assim aja uma apuração correta e permita com que nossos clientes sintam mais conforto em planejar e poupar.</div>
                         </div>
                     </div>
                 </div>

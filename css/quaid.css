@@ -4392,7 +4392,7 @@ figcaption {
   background-color: #f7f7f7;
 }
 
-.basis400 {
+.sobreContato {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -5077,7 +5077,22 @@ figcaption {
 > 4. Media Queries
 */
 
+
 @media (max-width: 991px) {
+  .section.is-hero{
+    padding-top: 77px !important;
+  }
+  .mapaContato{
+    display: inline-block !important;
+  }
+  .mapaContato .contatoTxt, .mapaContato .contatoMaps{
+    width: 88% !important;
+  }
+  .sobreContato a:first-child{
+    margin: 11px !important;
+  }
+
+  
   h1 {
     margin-bottom: 16px;
   }
@@ -5868,7 +5883,7 @@ figcaption {
     -ms-flex: 0 100px;
     flex: 0 100px;
   }
-  .basis400 {
+  .sobreContato {
     -webkit-flex-basis: auto;
     -ms-flex-preferred-size: auto;
     flex-basis: auto;
@@ -6470,7 +6485,7 @@ figcaption {
     -ms-flex-direction: column;
     flex-direction: column;
   }
-  .basis400 {
+  .sobreContato {
     margin-right: auto;
     margin-left: auto;
     -webkit-box-orient: vertical;
@@ -7919,3 +7934,4 @@ figcaption {
   font-weight: 100;
   font-style: italic;
 }
+

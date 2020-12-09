@@ -78,17 +78,17 @@
                         <div class="size-h2 on-dark">Desbloqueie o mundo digital e comece a transformação da sua organização</div>
                         <div>Entre em contato com um profissional de contabilidade.</div>
                     </div>
-                    <div class="basis400">
-                        <a href="#" class="button-primary margin-right is-white w-inline-block">
+                    <div class="sobreContato">
+                        <a href="contato.php" class="button-primary margin-right is-white w-inline-block">
                             <div class="button-primary-text">Vamos Conversar</div>
                         </a>
-                        <a href="#" class="button-primary is-ghost on-dark w-inline-block">
+                        <a href="contato.php" class="button-primary is-ghost on-dark w-inline-block">
                             <div class="button-primary-text">Contatar</div>
                         </a>
                     </div>
                 </div>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image position2">
+        </div>
     </div>
 
     <?php include 'footer.php' ?>
