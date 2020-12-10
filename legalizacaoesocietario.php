@@ -5,10 +5,10 @@
     <div class="section is-hero has-gradient position-relative overflow-hidden is-subpage">
         <div class="container position-relative">
             <div class="col block-centered text-align-center lg-7 md-12">
-                <div class="pre-title is-dark-with-low-opacity">Nossos serviços</div>
+                <div class="pre-title is-dark-with-low-opacity">Nosso Serviço</div>
                 <h1>Legalização e Societário</h1>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image style2">
+        </div>
     </div>
     <div class="section padding-bottom-extra">
 

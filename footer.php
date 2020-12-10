@@ -25,7 +25,7 @@
             <div class="col lg-4 md-12 no-margin-bottom">
 
                 <div class="flexh-space-between">
-                    <a href="https://www.instagram.com/trescaadm/" class="c-social on-dark w-inline-block" target="_blank">
+                    <a href="https://www.instagram.com/trescontabil/" class="c-social on-dark w-inline-block" target="_blank">
                         <div class="fa-brand"></div>
                     </a>
                     <a href="https://www.facebook.com/trescaadm" class="c-social on-dark w-inline-block" target="_blank">

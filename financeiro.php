@@ -5,10 +5,10 @@
     <div class="section is-hero has-gradient position-relative overflow-hidden is-subpage">
         <div class="container position-relative">
             <div class="col block-centered text-align-center lg-7 md-12">
-                <div class="pre-title is-dark-with-low-opacity">Nossos serviços</div>
+                <div class="pre-title is-dark-with-low-opacity">Nosso Serviço</div>
                 <h1>Financeiro</h1>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image style2">
+        </div>
     </div>
     <div class="section padding-bottom-extra">
         <div class="container flex-horizontal">
@@ -26,7 +26,6 @@
                         <li>Relacionamento com bancos; <br></li>
                         <li>Análise e pagamento de impostos retidos;<br></li>
                         <li>Controle de previsão de pagamentos e tributos mensais. <br></li>
-                        <li>Simplified and standardised data/entity structuresImplementação e implantação de sistema financeiro administrativo <br></li>
                     </ul>
                 </div>
                 <a href="./contato.php" class="button-primary w-inline-block">

@@ -30,7 +30,7 @@
 empreendimento assim viabilizar caminhos estruturados rumo
 aos objetivos traçados pelos sócios, investidores e ou equipe de estratégia, somos um time de consultores que pensamos e andamos com o nosso cliente, visando o crescimento e mais que isso, uma parceria  pra vida!
 </div>
-                </div><a href="#" class="cta-link"><span class="margin-right">Contate-nos</span><span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
+                </div><a href="contato.php" class="cta-link"><span class="margin-right">Contate-nos</span><span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
             </div>
             <div class="col lg-8 no-margin-bottom-lg md-12">
                 <div class="container container-nested is-wrapping">
@@ -38,7 +38,7 @@ aos objetivos traçados pelos sócios, investidores e ou equipe de estratégia, 
                         <div class="c-iconbox1__icon"><img src="images/money.svg" alt=""></div>
                         <div class="padding-top">
                             <div class="size-h3 on-lg-margin-bottom">Finanças</div>
-                            <div>Para se obter agilidade, evitar perdas e planejar adequadamente os próximos passos do seu empreendimento é necessário ter um time completo e atualizado que permitira controle do fluxo financeiro, e uma analise detalhada das informações geradas, que irão permitir um crescimento com o mínimo de perda e uma maior lucratividade
+                            <div>Para se obter agilidade, evitar perdas e planejar adequadamente os próximos passos do seu empreendimento é necessário ter um time completo e atualizado que permitira controle do fluxo financeiro, e uma analise detalhada das informações geradas, que irão permitir um crescimento com o mínimo de perda e uma maior lucratividade.
 </div>
                         </div>
                     </div>
@@ -89,34 +89,34 @@ Geradas pelo financeiro e contábil, que permitirão um planejamento adequado, e
         <div class="container">
             <div class="col lg-12 text-align-center">
                 <div class="w-layout-grid c-grid2x4">
-                    <a href="#" id="w-node-59df5b131331-864b8345" data-w-id="98ccdd70-250e-0aaa-fff0-59df5b131331" class="link-block-2 w-inline-block">
+                    <div id="w-node-59df5b131331-864b8345" data-w-id="98ccdd70-250e-0aaa-fff0-59df5b131331" class="link-block-2 w-inline-block">
                         <div class="c-gridgallery1__content-2">
                             <div class="on-dark text-medium weight-is-medium size-h2">Retirement planning</div>
                             <div class="on-dark margin-bottom-double">Etiam porta sem malesuada magna mollis euismod. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</div>
                         </div>
                         <div class="c-gridgallery1__image-2 img3"></div>
-                    </a>
-                    <a href="#" id="w-node-59df5b13133e-864b8345" data-w-id="98ccdd70-250e-0aaa-fff0-59df5b13133e" class="link-block-2 w-inline-block">
+                    </div>
+                    <div id="w-node-59df5b13133e-864b8345" data-w-id="98ccdd70-250e-0aaa-fff0-59df5b13133e" class="link-block-2 w-inline-block">
                         <div class="c-gridgallery1__content-2">
                             <div class="on-dark text-medium weight-is-medium size-h2">Wealth management</div>
                             <div class="on-dark margin-bottom-double">Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam. Pellentesque ornare sem lacinia quam </div>
                         </div>
                         <div class="c-gridgallery1__image-2 img4"></div>
-                    </a>
-                    <a href="#" id="w-node-59df5b13134b-864b8345" data-w-id="98ccdd70-250e-0aaa-fff0-59df5b13134b" class="link-block-2 w-inline-block">
+                    </div>
+                    <div id="w-node-59df5b13134b-864b8345" data-w-id="98ccdd70-250e-0aaa-fff0-59df5b13134b" class="link-block-2 w-inline-block">
                         <div class="c-gridgallery1__content-2">
                             <div class="on-dark text-medium weight-is-medium size-h2">Family investment</div>
                             <div class="on-dark margin-bottom-double">Vestibulum id ligula porta felis euismod semper. Sed posuere consectetur est at lobortis.</div>
                         </div>
                         <div class="c-gridgallery1__image-2 img6"></div>
-                    </a>
-                    <a href="#" id="w-node-59df5b131358-864b8345" data-w-id="98ccdd70-250e-0aaa-fff0-59df5b131358" class="link-block-2 w-inline-block">
+                    </div>
+                    <div id="w-node-59df5b131358-864b8345" data-w-id="98ccdd70-250e-0aaa-fff0-59df5b131358" class="link-block-2 w-inline-block">
                         <div class="c-gridgallery1__content-2">
                             <div class="on-dark text-medium weight-is-medium size-h2">Estate planning</div>
                             <div class="margin-bottom-double on-dark">Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum.</div>
                         </div>
                         <div class="c-gridgallery1__image-2 img5"></div>
-                    </a>
+                    </div>
                 </div>
             </div>
         </div>

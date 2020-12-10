@@ -13,7 +13,7 @@
                     
                     ao crescimento e mais que isso, uma parceria pra vida!</div>
             </div>
-        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image style2">
+        </div>
     </div>
     <div class="section no-padding-bottom">
         <div class="container">
@@ -30,7 +30,7 @@
                 <img src="./images/legalizacao.jpg" width="60%" alt="">
             </div>
         </div>
-        <div class="container flex-horizontal is-wrapping">
+            <div class="container flex-horizontal is-wrapping" style="display: flow-root;">
             <div class="col lg-3 md-12">
                 <div class="flexh-align-center">
                     <div class="c-iconbox1__icon"><img src="images/gPessoal.jpg"  alt=""></div>
@@ -100,89 +100,5 @@
         <div class="col lg-12 no-margin-bottom">
             <div class="hr"></div>
         </div>
-    </div>
-    <div class="section">
-        <div class="container">
-            <div class="col block-centered text-align-center lg-8 md-12">
-                <h2>Our approachment</h2>
-                <div class="padding-left padding-right margin-bottom low-text-contrast text-medium">We work with our financial services clients as partners. Together we develop clear, practical action plans, and support or run the implementation of those plans to ensure real and sustainable performance improvement.</div>
-            </div>
-        </div>
-        <div class="container is-wide">
-            <div class="col lg-3 md-4 sm-12">
-                <div class="flexh-space-between">
-                    <div class="text-xlarge low-text-contrast margin-right-small">01. </div>
-                    <div>
-                        <div class="size-h4 margin-bottom-small">Customer orientation to drive organic growth</div>
-                        <div class="margin-bottom text-small">Vestibulum id ligula porta felis euismod semper bvivamus sagittis lacus vel augue laoreet </div><a href="#" class="text-small">Read more</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col lg-3 md-4 sm-12">
-                <div class="flexh-space-between">
-                    <div class="text-xlarge low-text-contrast margin-right-small">02. </div>
-                    <div>
-                        <div class="size-h4 margin-bottom-small">Reducing costs and complexity to improve performance</div>
-                        <div class="margin-bottom text-small">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor</div><a href="#" class="text-small">Read more</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col lg-3 md-4 sm-12">
-                <div class="flexh-space-between">
-                    <div class="text-xlarge low-text-contrast margin-right-small">03. </div>
-                    <div>
-                        <div class="size-h4 margin-bottom-small">Harnessing and sourcing information technology that is aligned with strategy</div>
-                        <div class="margin-bottom text-small">Vivamus sagittis lacus vel augue laoreet rutrum </div><a href="#" class="text-small">Read more</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col lg-3 md-4 sm-12">
-                <div class="flexh-space-between">
-                    <div class="text-xlarge low-text-contrast margin-right-small">04. </div>
-                    <div>
-                        <div class="size-h4 margin-bottom-small">Integrating acquired companies to realize the most value</div>
-                        <div class="margin-bottom text-small">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor</div><a href="#" class="text-small">Read more</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col lg-3 md-4 sm-12">
-                <div class="flexh-space-between">
-                    <div class="text-xlarge low-text-contrast margin-right-small">05. </div>
-                    <div>
-                        <div class="size-h4 margin-bottom-small">Customer orientation to drive organic growth</div>
-                        <div class="margin-bottom text-small">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor</div><a href="#" class="text-small">Read more</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="section no-padding-top xs-no-padding-bottom">
-        <div class="container is-wide">
-            <div class="col lg-12 position-relative xs-no-margin-bottom"><img src="https://via.placeholder.com/1000x600.png 1400w" sizes="(max-width: 479px) 90vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, 97vw" alt="">
-                <div class="c-quotebox has-shadow position-relative">
-                    <div class="quotemark2">“</div>
-                    <div class="text-medium margin-bottom-double">Financia solved my problem with ease. Great customer service highly recommend. On tomorrow of the quality in clothing too!</div>
-                    <div class="text-small is-bold">Noah John</div>
-                    <div class="text-small">Architect at Surabaya jatim</div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="section has-bg-image2 position-relative overflow-hidden">
-        <div class="container position-relative">
-            <div class="col lg-7 md-12 block-centered">
-                <div class="text-align-center on-dark">
-                    <div class="margin-bottom-double">
-                        <div class="size-h2 on-dark margin-bottom">Unlock the digital world and begin your organization’s transformation</div>
-                        <div>Get in touch with a sales professional.</div>
-                    </div>
-                    <div>
-                        <a href="#" class="button-primary is-white w-inline-block">
-                            <div class="button-primary-text">Let&#x27;s talk</div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div><img src="https://via.placeholder.com/1000x600.png" alt="" class="header-image position2">
     </div>
 <?php include 'footer.php' ?>
