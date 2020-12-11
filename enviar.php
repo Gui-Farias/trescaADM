@@ -7,17 +7,20 @@
     // Instância da classe
     $mail = new PHPMailer(true);
     try
-    {
-        // Configurações do servidor
+    { 
+        // Configurações do servidor3
+        
         $mail->isSMTP();        //Devine o uso de SMTP no envio
         $mail->SMTPAuth = true; //Habilita a autenticação SMTP
         $mail->Username   = 'contato@trescaadm.com.br';
-        $mail->Password   = 'Tres@@2020@@';
+        $mail->Password   = 'Nandos,1287';
         // Criptografia do envio SSL também é aceito
-        $mail->SMTPSecure = 'tls';
+        $mail->SMTPSecure = 'ssl';
         // Informações específicadas pelo Google
         $mail->Host = 'smtp.trescaadm.com.br';
-        $mail->Port = 587;
+        $mail->Port = 465;
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->SMTPDebug = 1;
         // Define o remetente
         $mail->setFrom('contato@trescaadm.com.br', 'TrescaADM');
         // Define o destinatário
