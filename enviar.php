@@ -11,16 +11,16 @@
         // Configurações do servidor3
         
         $mail->isSMTP();        //Devine o uso de SMTP no envio
+        
         $mail->SMTPAuth = true; //Habilita a autenticação SMTP
-        $mail->Username   = 'contato@trescaadm.com.br';
+        $mail->Username   = 'contatotrescaadm@gmail.com';
         $mail->Password   = 'Nandos,1287';
         // Criptografia do envio SSL também é aceito
-        $mail->SMTPSecure = 'ssl';
+        $mail->SMTPSecure = 'tsl';
+
         // Informações específicadas pelo Google
-        $mail->Host = 'smtp.trescaadm.com.br';
-        $mail->Port = 465;
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
-        $mail->SMTPDebug = 1;
+        $mail->Host = 'smtp.gmail.com';
+        $mail->Port = 587;
         // Define o remetente
         $mail->setFrom('contato@trescaadm.com.br', 'TrescaADM');
         // Define o destinatário
@@ -36,7 +36,7 @@
                 <table width='70' align='left' border='0' cellpadding='0' cellspacing='0'>
                         <tr>
                             <td height='70' style='padding: 0 20px 20px 0;'>
-                                <img src='images/icon.gif' width='70' height='70' border='0' alt='' / >
+                                <img src='https://trescaadm.com.br/images/logoico.png' width='80' height='80' border='0' alt='logo trescaadm' / >
                             </td>
                         </tr>
                     </table>
@@ -65,6 +65,19 @@
                             </table>
                         </td>
                     </tr>
+                    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+                        <tr>
+                            <td class='h1' style='padding: 5px 0 0 0;'>
+                                {$_POST["email-5"]}
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class='h2'>
+                                {$_POST['Phone']}
+                            </td>
+                        </tr>
+
+                    </table>
                 </tr>
             </table>
             
@@ -81,7 +94,14 @@
         $mail->AltBody = 'Este é o cortpo da mensagem para clientes de e-mail que não reconhecem HTML';
         // Enviar
         $mail->send();
-        echo 'A mensagem foi enviada!';
+        ?>
+        <script language="JavaScript">
+            <!--
+            alert("Sucesso!");
+            window.location = '/index.php';
+            //-->
+        </script>
+        <?
     }
     catch (Exception $e)
     {
