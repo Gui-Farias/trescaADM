@@ -15,7 +15,7 @@
         <div class="container is-narrow">
             <div class="col lg-12">
                 <div class="w-form">
-                    <form id="email-form" name="email-form" data-name="Email Form">
+                    <form id="email-form" name="email-form" data-name="Email Form" form action="enviar.php" method="post">
                         <div class="container container-nested">
                             <div class="col lg-4 md-12">
                                 <div class="size-h3">Sobre Você</div>
@@ -23,6 +23,8 @@
                             <div class="col lg-8 md-12">
                                 <label for="name-2" class="form-label">Nome *</label>
                                 <input type="text" class="form-input-text w-input" maxlength="256" name="name" data-name="Name" id="name" required="">
+                                <label for="name-2" class="form-label">Assunto *</label>
+                                <input type="text" class="form-input-text w-input" maxlength="256" name="assunto" data-name="assunto" id="assunto" required="">
                                 <label for="email-5" class="form-label">Email *</label>
                                 <input type="email" class="form-input-text w-input" maxlength="256" name="email-5" data-name="Email 5" id="email-5" required="">
                                 <label for="Phone" class="form-label">Numero de celular *</label>
